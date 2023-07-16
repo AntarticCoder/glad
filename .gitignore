@@ -1,0 +1,16 @@
+*.o
+*.d
+*.DS_Store
+*.dylib
+
+/.vscode
+/bin
+/build
+/CMakeFiles
+/doxydoc
+
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeDoxyfile.in
+CMakeDoxygenDefaults.cmake
